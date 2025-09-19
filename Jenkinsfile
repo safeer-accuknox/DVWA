@@ -3,6 +3,7 @@ pipeline {
 
   environment {
     DISABLE_SPINNER = "TRUE"
+    DEBUG = "TRUE"
 
     ACCUKNOX_ENDPOINT = "cspm.demo.accuknox.com"
     ACCUKNOX_LABEL = "AccuKnoxInfyPOC"
